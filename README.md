@@ -1,0 +1,1 @@
+# Rust microservice example (Just for fun) in order to learn Rust
